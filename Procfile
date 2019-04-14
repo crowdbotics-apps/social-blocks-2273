@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT social_blocks_2273.wsgi:application
